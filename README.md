@@ -1,5 +1,7 @@
 # home_lab_agent
 
+![Project Screenshot](./demo.png)
+
 A visual and interactive platform for deploying and managing AI agents locally. This project aims to provide a private, secure, and cost-effective solution for running AI agents on your local machine.
 
 ## Features
