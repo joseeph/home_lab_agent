@@ -1,4 +1,4 @@
-# home_lab_agent
+# home_lab_agent (ongoing...)
 
 ![Project Screenshot](./demo.png)
 
